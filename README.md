@@ -28,3 +28,7 @@ __2) Sorting results__
 __3) Grouping results__
 
      http://<host>:<port>/solr/<collection>/select?q={!frange l=10 u=60}length(field)&wt=xml&indent=true&sort=length(field) desc&group=true&group.func=length(field)
+
+## License
+
+See LICENSE file in the root folder.
