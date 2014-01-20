@@ -32,3 +32,7 @@ __3) Grouping results__
 ## License
 
 See LICENSE file in the root folder.
+
+## Links
+
+* [Apache Solr](http://lucene.apache.org/solr/)
